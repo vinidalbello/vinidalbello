@@ -6,3 +6,4 @@
 - 📫 How to reach me: https://www.linkedin.com/in/viniciusdb/ or @vinidb__ on Instagram
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinidalbello)](https://github.com/vinidalbello)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vinidalbello)](https://github.com/vinidalbello)
