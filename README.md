@@ -1,7 +1,7 @@
 ### Hi there my name is Vinicius Dal Bello 👋
 ### Welcome to my GitHub repository
 - 🌱 I’m currently learning HTML5, CSS3 and JavaScript;
-- 🤔 I’m looking for help with getting new jobs;
+- 🤔 I’m looking for help with getting new jobs, and trying to get out of Brazil;
 - ⚡ Fun fact: I love playing basketball;
 - 📫 How to reach me: https://www.linkedin.com/in/viniciusdb/ or @vinidb__ on Instagram
 - 🎓 I'm learning:
