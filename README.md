@@ -2,7 +2,7 @@
 ### Welcome to my GitHub repository
 - 🌱 I’m currently learning HTML5, CSS3 and JavaScript;
 - 🤔 I’m looking for help with getting new jobs;
-- ⚡ Fun fact: I love playing basketball;
+- ⚡ Fun fact about me: I love playing basketball;
 - 📫 How to reach me: https://www.linkedin.com/in/viniciusdb/ or @vinidb__ on Instagram
 - 🎓 I'm learning:
  <img align="center" alt="vinicius-html" height="30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%"> </a>
