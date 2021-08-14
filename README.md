@@ -8,6 +8,7 @@
  <img align="center" alt="vinicius-html" height="30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%"> </a>
    <img align="center" alt="vinicius-css" height="30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width:100%"></a> <a href="https://www.w3schools.com/html/">
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"> <img align="center" alt="vinicius-js" height="30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width:100%"></a> <a href="https://vuejs.org/">
+ ## <a href="https://app.daily.dev/Vinicin"><img src="https://api.daily.dev/devcards/42e85ed45f044a2984ff1d6e79ff1f45.png?r=ko0" width="200" alt="Vinicius “Vini” Dal Bello's Dev Card"/></a>
 
 
 
