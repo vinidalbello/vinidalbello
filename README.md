@@ -12,7 +12,7 @@ class SobreMim extends Desenvolvedor {
 
 class Skills extends Desenvolvedor {
   linguagens  = ['JavaScript', 'PHP', 'Elixir', 'C'];
-  frameworks = ['React', 'Vue.js', '];
+  frameworks = ['React', 'Vue.js'];
 }
 ```
 
