@@ -6,8 +6,8 @@
 import Desenvolvedor from 'Vinicin';
 
 class SobreMim extends Desenvolvedor {
-  nome     = 'Vinicius';
-  area    = 'Developer';
+  nome = 'Vinicius';
+  area = 'Developer';
 }
 
 class Skills extends Desenvolvedor {
