@@ -1,14 +1,21 @@
+import download.svg from /home/usuario/Imagens
 ### Hi there my name is Vinicius Dal Bello 👋
 ### Welcome to my GitHub repository
 - 🌱 I’m currently learning HTML5, CSS3 and JavaScript;
 - 🤔 I’m looking for help with getting new jobs;
 - ⚡ Fun fact about me: I love playing basketball;
 - 📫 How to reach me: https://www.linkedin.com/in/viniciusdb/ or @vinidb__ on Instagram
-- 🎓 I'm learning:
- <img align="center" alt="vinicius-html" height="30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width:100%"> </a>
-   <img align="center" alt="vinicius-css" height="30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width:100%"></a> <a href="https://www.w3schools.com/html/">
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"> <img align="center" alt="vinicius-js" height="30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="max-width:100%"></a> <a href="https://vuejs.org/">
-  <img align="center" alt="vinicius-vuejs" height="30" width = "40" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" style="max-width:100%"></a> <a href="https://nodejs.org/en/">
+
+## 🚀 Minhas Skills
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+
+ 
+ 
 
 
 
