@@ -11,12 +11,11 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  linguagens  = ['JavaScript'];
-  frameworks = ['React', 'Node'];
+  linguagens  = ['JavaScript', 'TypeScript'];
+  frameworks = ['React', 'Node', 'Bootstrap'];
 }
 ```
 
 - ⚡ Fun fact about me: I love playing basketball, video games and watch TV series;
 - 📫 How to reach me: https://www.linkedin.com/in/viniciusdb/ or @vinidb__ on Instagram
-- 🔧 My skills: HTML, CSS, Bootstrap, Javascript, React.js and Node.js.
-- 📚 Currently studying: React.js and Node.js.
+- 🔧 My skills: HTML, CSS, Bootstrap, Javascript, TypeScript, React.js and Node.js.
