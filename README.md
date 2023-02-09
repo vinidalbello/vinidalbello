@@ -19,3 +19,7 @@ class Skills extends Desenvolvedor {
 - ⚡ Fun fact about me: I love playing basketball, video games and watch TV series;
 - 📫 How to reach me: https://www.linkedin.com/in/viniciusdb/ or @vinidb__ on Instagram
 - 🔧 My skills: HTML, CSS, Bootstrap, Javascript, TypeScript, React.js and Node.js.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinidalbello)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinidalbello)](https://github.com/anuraghazra/github-readme-stats)
