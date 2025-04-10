@@ -20,6 +20,4 @@ class Skills extends Developer {
 - 📫 How to reach me: https://www.linkedin.com/in/viniciusdb/ or @vinidb__ on Instagram
 - 🔧 My skills: HTML, CSS, Bootstrap, Javascript, TypeScript, React.js, Node.js, Express, Jest, SvelteKit and Git.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinidalbello)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinidalbello)](https://github.com/anuraghazra/github-readme-stats)
