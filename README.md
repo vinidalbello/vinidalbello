@@ -14,6 +14,6 @@ class AboutMe extends Developer {
 class Skills extends Developer {
   languages = ["JavaScript", "TypeScript", "PHP"];
   libraries = ["React", "Express"];
-  frameworks = ["SvelteKit", "NextJS", "NodeJS"];
+  frameworks = ["SvelteKit", "Next", "Node", "Nest"];
 }
 ```
