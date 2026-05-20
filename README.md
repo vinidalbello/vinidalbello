@@ -12,17 +12,14 @@
 
 ---
 
-### About
+Developer who likes things done right — good structure, clean interfaces, and code that makes sense six months later. I enjoy the full picture: thinking through architecture, building the backend, and sweating the frontend details.
 
-Fullstack developer with a TypeScript-first mindset and a strong eye for frontend craft. I enjoy building things end-to-end — from a well-structured API to a polished UI — and I care about writing code that's clean, maintainable, and actually ships.
+When I'm not coding, I'm probably at the gym, on a car, or deep into a game.
 
-SvelteKit is where I feel most at home on the frontend, though I've been diving deeper into React and Next.js lately. On the backend, Node.js and NestJS are my go-to stack. I'm always exploring something new.
-
-- 🌐 Open to remote opportunities with international companies
-- 🇧🇷 Based in Jaraguá do Sul, Santa Catarina
+📍 Jaraguá do Sul, Santa Catarina
 
 ---
 
 <div align="center">
-  <sub>Always building something. Let's connect.</sub>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinidalbello&layout=compact&hide_border=true&langs_count=8&theme=default" />
 </div>
