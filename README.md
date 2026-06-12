@@ -19,3 +19,5 @@ When I'm not coding, I'm probably at the gym, on a car, or deep into a game.
 📍 Jaraguá do Sul, Santa Catarina
 
 ---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinidalbello&layout=compact&theme=tokyonight&hide=html)
